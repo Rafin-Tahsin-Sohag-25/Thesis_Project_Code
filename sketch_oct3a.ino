@@ -8,10 +8,10 @@
 #include<bits/stdc++.h>
 
 // Blynk Authentication Token
-char auth[] = "QvsqOzLYXeBWJ5h3FRYuUtnxUS-frXDr";
+char auth[] = "QvsqOzLYXeBWJ5h3FRYuUtnxUS-frXDr";     
 
 // WiFi credentials
-char ssid[] = "Mawlana Mess";
+char ssid[] = "Mawlana Mess"; //we can change this portion 
 char pass[] = "mawlana1234";
 
 // Sensor Pins
