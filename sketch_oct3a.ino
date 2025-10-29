@@ -89,5 +89,9 @@ void setup()
 void loop() 
 {
     Blynk.run();
-    timer.run();
+    timer.run();         //Author Name :Sohag Miah
+                        //Id:20103233
+                        //program:BCSE
 }
+
+
